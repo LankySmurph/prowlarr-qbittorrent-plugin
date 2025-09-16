@@ -23,7 +23,7 @@ CONFIG_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), CONFIG_F
 CONFIG_DATA = {
     'api_key': '8f723bf154324bcfa4e6b499328211ca',  # prowlarr api
     'tracker_first': False,          # (False/True) add tracker name to beginning of search result
-    'url': 'prowlarr:9696',  # prowlarr url
+    'url': 'http://192.168.8.122:9696',  # prowlarr url
 }
 
 
